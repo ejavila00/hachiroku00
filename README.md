@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hachiroku00
+- 👋 Hi, I’m @Eries John P. Avila
 - 👀 I’m interested in ... Web Development Using Wordpress
 - 🌱 I’m currently learning ... Complex web layout and designs
 - 📫 How to reach me ... avilaeriesjohn@gmail.com
